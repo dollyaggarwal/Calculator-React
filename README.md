@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://dollyaggarwal.github.io/Calculator-React/](https://dollyaggarwal.github.io/Calculator-React/) to view it in your browser
+open [https://calculator-dollyaggarwal.netlify.app/](https://calculator-dollyaggarwal.netlify.app/) to view it in your browser
 
 ## Features
 
