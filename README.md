@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://abhithakur7080.github.io/calculator-React/](https://abhithakur7080.github.io/calculator-React/) to view it in your browser
+open [https://dollyaggarwal.github.io/Calculator-React/](https://dollyaggarwal.github.io/Calculator-React/) to view it in your browser
 
 ## Features
 
